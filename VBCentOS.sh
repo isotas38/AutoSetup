@@ -7,4 +7,3 @@ sh $CURRENT/scripts/disabledSelinux.sh
 sh $CURRENT/scripts/allowsWheelSudo.sh
 sh $CURRENT/scripts/adjustTime.sh
 sh $CURRENT/scripts/installYum.sh
-sh $CURRENT/scripts/enableEpel.sh
